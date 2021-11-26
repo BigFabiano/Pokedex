@@ -1,0 +1,21 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    background-image: url("/img/3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#foto-pokemon{
+    max-height: 40vh;
+}
+#nome-pokemon{
+    font-family: sans-serif;
+    font-size: 32px;
+    font-variant: small-caps;
+    font-weight: bold;
+    color: tomato;
+
+}
